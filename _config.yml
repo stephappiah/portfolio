@@ -5,9 +5,9 @@ description: software engineer & space enthusiast
 url: https://stephappiah.github.io/
 baseurl: ''
 email: hi@stevenwithph.com
-cover: https://stephappiah.github.io/img/og.png
-logo: https://stephappiah.github.io/img/emojis/astro.png
-resume: https://stephappiah.github.io/resume.pdf
+cover: https://stevenwithph.com/img/og.png
+logo: https://stevenwithph.com/img/emojis/astro.png
+resume: https://stevenwithph.com/resume.pdf
 social:
   - title: email
     url: mailto:hi@stevenwithph.com
