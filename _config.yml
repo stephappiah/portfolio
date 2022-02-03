@@ -6,7 +6,7 @@ url: https://stephappiah.github.io/
 baseurl: ''
 email: hi@stevenwithph.com
 cover: https://stephappiah.github.io/img/og.png
-logo: https://stephappiah.github.io/img/emojis/technologist.png
+logo: https://stephappiah.github.io/img/emojis/astro.png
 resume: https://stephappiah.github.io/resume.pdf
 social:
   - title: email
@@ -16,7 +16,7 @@ social:
   - title: github
     url: https://github.com/stephappiah
   # - title: linkedin
-  #   url: https://www.linkedin.com/in/bchiang7
+  #   url: https://www.linkedin.com/in/stephappiah
 
 # Build settings
 markdown: kramdown
