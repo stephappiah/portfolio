@@ -1,0 +1,23 @@
+languages:
+  - item: python
+  - item: go
+  - item: javascript
+  - item: typescript
+  - item: html/css
+  - item: sql
+
+frameworks:
+  - item: django
+  - item: node
+  - item: express
+  - item: react
+  - item: next
+
+tools:
+  - item: git
+  - item: docker
+  - item: postman
+  - item: jira
+  - item: postgres
+  - item: mongodb
+
