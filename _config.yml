@@ -7,7 +7,7 @@ baseurl: ''
 email: hi@stevenwithph.com
 cover: https://stevenwithph.com/img/og.png
 logo: https://stevenwithph.com/img/emojis/astro.png
-resume: https://stevenwithph.com/resume.pdf
+resume: https://drive.google.com/file/d/1ispLBTMZz87BxkPMhAs1QWSIpo1uonse/view
 social:
   - title: email
     url: mailto:hi@stevenwithph.com
@@ -15,8 +15,8 @@ social:
     url: https://twitter.com/stevenwithph
   - title: github
     url: https://github.com/stephappiah
-  # - title: linkedin
-  #   url: https://www.linkedin.com/in/stephappiah
+  - title: linkedin
+    url: https://www.linkedin.com/in/stephappiah
 
 # Build settings
 markdown: kramdown
