@@ -10,8 +10,6 @@ frameworks:
   - item: django
   - item: node
   - item: express
-  - item: react
-  - item: next
 
 tools:
   - item: git

@@ -1,14 +1,19 @@
 - company: mPedigree
   url: https://www.mpedigree.com/
-  time: May 2021 - present
-  position: software engineer
-
-- company: trounceflow
-  url: https://wp.trounceflow.com/
-  time: Nov 2021 - present (part-time)
+  time: Apr 2020 - Nov 2022
   position: software engineer
 
 - company: Motito
   url: https://motito.co/
-  time: Jan 2021 - present (part-time)
+  time: Dec 2021 - Nov 2022 (contract)
+  position: software engineer
+
+- company: Delphos
+  url: https://delphos.co/
+  time: Feb 2022 - Jan 2023 (contract)
+  position: software engineer
+
+- company: candidate.fyi
+  url: https://candidate.fyi/
+  time: Sept 2022 - present (full-time)
   position: software engineer
