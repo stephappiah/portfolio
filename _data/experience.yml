@@ -1,11 +1,6 @@
-- company: mPedigree
-  url: https://www.mpedigree.com/
-  time: Apr 2020 - Nov 2022
-  position: software engineer
-
-- company: Motito
-  url: https://motito.co/
-  time: Dec 2021 - Nov 2022 (contract)
+- company: candidate.fyi
+  url: https://candidate.fyi/
+  time: Sept 2022 - present (full-time)
   position: software engineer
 
 - company: Delphos
@@ -13,7 +8,12 @@
   time: Feb 2022 - Jan 2023 (contract)
   position: software engineer
 
-- company: candidate.fyi
-  url: https://candidate.fyi/
-  time: Sept 2022 - present (full-time)
+- company: Motito
+  url: https://motito.co/
+  time: Dec 2021 - Nov 2022 (contract)
+  position: software engineer
+
+- company: mPedigree
+  url: https://www.mpedigree.com/
+  time: Apr 2020 - Nov 2022
   position: software engineer
